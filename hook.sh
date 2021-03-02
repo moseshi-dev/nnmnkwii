@@ -1,4 +1,4 @@
 #!/bin/bash -eux
 echo 1
-sleep 500
+sleep 50
 
